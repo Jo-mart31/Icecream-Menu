@@ -109,6 +109,10 @@ footer {
     height: 15px;
     display: inline-block;
 }
+.phone.number {
+    text-align: left;
+    margin-left: 83px;
+}
 a {
     color: black;
 }
@@ -121,6 +125,6 @@ a:hover {
     color: pink;
 }
 
-a: active {
+a:active {
     color: pink;
 }
